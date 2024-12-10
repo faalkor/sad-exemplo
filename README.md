@@ -1,1 +1,1 @@
-# sad-exemplo
+Esse repositório é uma prática de sistemas de apoio à decisão baseado em um dataset.
