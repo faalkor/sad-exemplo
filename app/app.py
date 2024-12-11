@@ -26,7 +26,7 @@ with open('app/paises.json') as f:
 
 # Tabela
 st.markdown("## Dados")
-df = pd.read_csv('dataset.csv')
+df = pd.read_csv('app/dataset.csv')
 st.write(df)
 
 
