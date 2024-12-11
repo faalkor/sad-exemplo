@@ -1,1 +1,1 @@
-Esse repositório é uma prática de sistemas de apoio à decisão que analisa a quantidade de brasileiros que possuem celular, segundo dados do IBGE.
+Esse repositório é uma prática de sistemas de apoio à decisão que analisa a quantidade de brasileiros que possuiam celular em 2005, segundo dados do IBGE.
