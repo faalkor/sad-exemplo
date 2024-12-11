@@ -35,4 +35,4 @@ st.markdown("### 20 a 24 anos")
 grafico(df, "20_a_24")
 
 st.markdown("### 60+ anos")
-grafico(df, "60_+")
+grafico(df, "60_+") 
