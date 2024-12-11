@@ -10,7 +10,7 @@ st.markdown("# Pessoas com celular Brasil 2005")
 
 
 # Mapa
-with open('paises.json') as f:
+with open('./paises.json') as f:
     paisesJson = json.load(f)
     m = folium.Map(location=[20, 0], zoom_start=2)
     folium.GeoJson(
