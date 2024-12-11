@@ -1,1 +1,1 @@
-Esse repositório é uma prática de sistemas de apoio à decisão baseado em um dataset.
+Esse repositório é uma prática de sistemas de apoio à decisão que analisa a quantidade de brasileiros que possuem celular, segundo dados do IBGE.
